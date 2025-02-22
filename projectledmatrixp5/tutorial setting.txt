@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+# Centralized-Control-Solution-for-LED-Display-System-of-Fuel-Prices
+This project designs a solution to control the LED display system for fuel prices. It involves developing a web application using Node-RED to manage operations, monitor information, communicate, and control modules to display fuel prices on LED boards
+
+In this project, we use the ESP32-HUB75-MatrixPanel-DMA library to support LED panel scanning.
+=======
+<!-- Thư mục này chứa source code để thực hiện dự án, bao gồm: file code dùng nạp cho các vi điều khiển và file cấu hình webserver. -->
+
+- Đối với webserver
+    Cần cài đặt bộ công cụ node-red để sử dụng, sau đó cần cài một số thư viện sau để hỗ trợ việc vận hành server:
+        1. node-red-contrib-aedes
+        2. node-red-dashboard
+        3. node-red-node-mysql
+        4. node-red-node-ui-table
+        5. node-red-contrib-ui-led
+    Sau đó import file web.json trong thư mục vào node-red để thực hiện khởi chạy web server
+
+
+- Đối với các vi điều khiển khiển
+
+    + file masterV1 được dùng để nạp cho bộ điều khiển tại Gateway
+    + file slaveV1 được dùng để nạp cho bộ điều khiển tại các bảng led 
+>>>>>>> 5a3187a (Initial commit)

@@ -1,0 +1,23 @@
+#define reset d15
+#define dio0 d2
+#define nss d23
+#define sck d22
+#define mosi d17
+#define miso d18
+
+#define R1_PIN 32
+#define G1_PIN 21
+#define B1_PIN 33
+#define R2_PIN 25
+#define G2_PIN 19
+#define B2_PIN 26
+
+#define A_PIN 27
+#define B_PIN 18
+#define C_PIN 14
+#define D_PIN 5
+#define E_PIN -1
+
+#define LAT_PIN 4
+#define OE_PIN 13
+#define CLK_PIN 12

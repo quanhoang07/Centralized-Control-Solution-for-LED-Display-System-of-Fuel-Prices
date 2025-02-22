@@ -1,0 +1,2750 @@
+[
+    {
+        "id": "e63f0fbbbafd2a71",
+        "type": "tab",
+        "label": "main",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "64fcf5e5b5e3c0f4",
+        "type": "group",
+        "z": "e63f0fbbbafd2a71",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "7f3dba9c481d7273",
+            "2e1773bdcaaa8d56",
+            "d03370bb187a2ebb",
+            "ca52f762e24d97c2",
+            "19f65db247b3240f",
+            "faa6d9818a0d6290",
+            "daae19d6edc63d0b",
+            "f8c10fdc20a51ab3",
+            "dc5ed1a8af431e5a",
+            "a605478f3aa3fce7",
+            "56a25d05fcf86932"
+        ],
+        "x": 34,
+        "y": 439,
+        "w": 852,
+        "h": 362
+    },
+    {
+        "id": "1a61165073621750",
+        "type": "group",
+        "z": "e63f0fbbbafd2a71",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "772906d4c39a6053",
+            "69b657ba558e86b2",
+            "7eaeddc80bbf5cf0",
+            "22b07fd46a75a5cc",
+            "e252708ae8b7d621",
+            "6c2003f22e1b0770",
+            "85fe647a0c281fb3",
+            "fc515a44ec4677fe",
+            "012936f86dceaaad",
+            "5755078f3fd654b4",
+            "2f62fc219a11c9f8",
+            "07da7929e85ed867",
+            "68c2a5eb8c2a7e75",
+            "44ef22ef06dedd75",
+            "235f58a382543ca7",
+            "667ce3da38d0f2b9",
+            "e0437994dca7b9b8",
+            "862ff40adb8fb27a",
+            "aeda9ae74697ad95",
+            "26dc63ef08a099b0",
+            "3269b06a0b428b36",
+            "stop-timer",
+            "stop-function",
+            "f4d8c46458c20bad",
+            "15172c67acc8f3a9",
+            "26a2bb8750a51423",
+            "22e7c34c48aa2722",
+            "09223d0287b1b850",
+            "2d89209259f8a49b",
+            "9bf0a79e2f3fb196",
+            "577575ad702fb663",
+            "0cf4bcb5b9ca1ad1",
+            "0080bbd9bd0ec73d",
+            "c18d79a237629add"
+        ],
+        "x": 34,
+        "y": 819,
+        "w": 1072,
+        "h": 502
+    },
+    {
+        "id": "da249fdcb9dfb5b2",
+        "type": "group",
+        "z": "e63f0fbbbafd2a71",
+        "name": "",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "1c6db7a664bfb7d6",
+            "c1d0b0371d52527d",
+            "c5ae3bb5507acfc0",
+            "4fb74659be0ae37f",
+            "e4b07588efb1b84f",
+            "1633a0c41905c350",
+            "b2fa66cd0d904d07",
+            "7c8831a9fbcf6f80",
+            "7f373ecd596ee139",
+            "2ae105c7d947a695",
+            "28502c6649944146",
+            "684297d6ab76195d",
+            "940a657e49d0e59d",
+            "9f816fe0d6c8678e",
+            "097c5f4af097fa43",
+            "c5f896dcafa76297",
+            "42ce22dcb2696c6b",
+            "5790c8845f380fad",
+            "b6de98fc4949a62c"
+        ],
+        "x": 34,
+        "y": 39,
+        "w": 1119.9999732971191,
+        "h": 362
+    },
+    {
+        "id": "37b881e302a2e11b",
+        "type": "group",
+        "z": "e63f0fbbbafd2a71",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "265e4716edd97408",
+            "4457ac9e22b65db5",
+            "923aa7b02aa20126",
+            "d6531c0cec84bc04",
+            "31f8c085708f78e2",
+            "b29971257e50e043",
+            "bf525dc37de9fca9",
+            "047679dd4349af49",
+            "8ced5305c2a26951",
+            "88cd343663bc7596",
+            "1520cd976b98489a",
+            "e53b931c90cbd102",
+            "429921a8b0f3a0a2",
+            "09495bacea119e91",
+            "3ff920f61fac97a9",
+            "52bb4d5e1c9a218b",
+            "57197e9247999b90",
+            "60685936c9e6b436",
+            "500ce5ccc6794f1b",
+            "0991f5cfa1f04d9b",
+            "9239dffdee126d1b",
+            "8589f3a3b25c40dd",
+            "9ce21f0a8b59d9bb",
+            "d563ffa7e37ed8f7",
+            "e11a741a0e5a13bb"
+        ],
+        "x": 34,
+        "y": 1339,
+        "w": 972,
+        "h": 442
+    },
+    {
+        "id": "59be8ce9bf2ad5d9",
+        "type": "group",
+        "z": "e63f0fbbbafd2a71",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "315b65b9d433d2d4",
+            "7500935e7797fffa",
+            "24f4d4554971cbb5",
+            "15f99b7a9f5cee7f",
+            "d23aee5ca6971df8",
+            "6aed25a2c7334570",
+            "f24c6c2e97f1ef67",
+            "47ae9c93394c3872",
+            "6b4d0a43109a78c1",
+            "36933a1ba3c267b0",
+            "2dc84b5afd2a543c",
+            "a78ce466e83bfd7a"
+        ],
+        "x": 34,
+        "y": 1779,
+        "w": 982,
+        "h": 262
+    },
+    {
+        "id": "7f3dba9c481d7273",
+        "type": "ui_form",
+        "z": "e63f0fbbbafd2a71",
+        "g": "64fcf5e5b5e3c0f4",
+        "name": "thêm thông tin trạm",
+        "label": "Thêm trạm xăng",
+        "group": "498ba5f42af241b7",
+        "order": 1,
+        "width": 6,
+        "height": 1,
+        "options": [
+            {
+                "label": "Tên trạm",
+                "value": "name",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Địa chỉ ",
+                "value": "location",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Trạng thái hoạt động",
+                "value": "status",
+                "type": "text",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "name": "",
+            "location": "",
+            "status": ""
+        },
+        "payload": "",
+        "submit": "Thêm",
+        "cancel": "Hủy",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": false,
+        "className": "",
+        "x": 150,
+        "y": 560,
+        "wires": [
+            [
+                "d03370bb187a2ebb"
+            ]
+        ]
+    },
+    {
+        "id": "2e1773bdcaaa8d56",
+        "type": "mysql",
+        "z": "e63f0fbbbafd2a71",
+        "g": "64fcf5e5b5e3c0f4",
+        "mydb": "76457436fa377042",
+        "name": "",
+        "x": 530,
+        "y": 560,
+        "wires": [
+            [
+                "19f65db247b3240f"
+            ]
+        ]
+    },
+    {
+        "id": "d03370bb187a2ebb",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "64fcf5e5b5e3c0f4",
+        "name": "insert tt trạm",
+        "func": "var query = `INSERT INTO stations (name, location, status) VALUES (:name, :location, :status)`\nmsg.topic = query\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 330,
+        "y": 560,
+        "wires": [
+            [
+                "2e1773bdcaaa8d56"
+            ]
+        ]
+    },
+    {
+        "id": "ca52f762e24d97c2",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "64fcf5e5b5e3c0f4",
+        "name": "lấy tt trạm",
+        "func": "var query = 'SELECT * FROM gas_stations.stations'\nmsg.topic = query\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 300,
+        "y": 620,
+        "wires": [
+            [
+                "2e1773bdcaaa8d56"
+            ]
+        ]
+    },
+    {
+        "id": "19f65db247b3240f",
+        "type": "ui_table",
+        "z": "e63f0fbbbafd2a71",
+        "g": "64fcf5e5b5e3c0f4",
+        "group": "99eb7e24ed4ded58",
+        "name": "Danh sách các trạm",
+        "order": 1,
+        "width": 12,
+        "height": 3,
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 760,
+        "y": 560,
+        "wires": [],
+        "info": "{\r\n    \"field\": \"id\",\r\n    \"title\": \"ID\",\r\n    \"width\": \"50px\"\r\n},\r\n{\r\n    \"field\": \"name\",\r\n    \"title\": \"Station Name\",\r\n    \"width\": \"200px\"\r\n},\r\n{\r\n    \"field\": \"address\",\r\n    \"title\": \"Address\",\r\n    \"width\": \"300px\"\r\n},\r\n{\r\n    \"field\": \"status\",\r\n    \"title\": \"Status\",\r\n    \"width\": \"100px\"\r\n}"
+    },
+    {
+        "id": "faa6d9818a0d6290",
+        "type": "ui_form",
+        "z": "e63f0fbbbafd2a71",
+        "g": "64fcf5e5b5e3c0f4",
+        "name": "cập nhật thông tin trạm",
+        "label": "Cập nhật thông tin trạm",
+        "group": "c266fd81e1cc196f",
+        "order": 1,
+        "width": 6,
+        "height": 1,
+        "options": [
+            {
+                "label": "Mã trạm",
+                "value": "id",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Tên trạm",
+                "value": "name",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Địa chỉ ",
+                "value": "location",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Trạng thái hoạt động",
+                "value": "status",
+                "type": "text",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "id": "",
+            "name": "",
+            "location": "",
+            "status": ""
+        },
+        "payload": "",
+        "submit": "Cập nhật",
+        "cancel": "Hủy",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": false,
+        "className": "",
+        "x": 160,
+        "y": 700,
+        "wires": [
+            [
+                "daae19d6edc63d0b"
+            ]
+        ]
+    },
+    {
+        "id": "daae19d6edc63d0b",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "64fcf5e5b5e3c0f4",
+        "name": "cập nhật tt trạm",
+        "func": "\nvar query = `UPDATE gas_stations.stations\nSET name = :name, location = :location, status = :status\nWHERE id = :id`;\nmsg.topic = query;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 700,
+        "wires": [
+            [
+                "2e1773bdcaaa8d56"
+            ]
+        ]
+    },
+    {
+        "id": "f8c10fdc20a51ab3",
+        "type": "ui_text_input",
+        "z": "e63f0fbbbafd2a71",
+        "g": "64fcf5e5b5e3c0f4",
+        "name": "xóa trạm",
+        "label": "Nhập trạm muốn xóa",
+        "tooltip": "",
+        "group": "3f8fa5d907536a0d",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 140,
+        "y": 760,
+        "wires": [
+            [
+                "dc5ed1a8af431e5a"
+            ]
+        ]
+    },
+    {
+        "id": "dc5ed1a8af431e5a",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "64fcf5e5b5e3c0f4",
+        "name": "xóa trạm",
+        "func": "var query = `DELETE FROM gas_stations.stations WHERE id = ${msg.payload}` \nmsg.topic = query\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 760,
+        "wires": [
+            [
+                "2e1773bdcaaa8d56"
+            ]
+        ]
+    },
+    {
+        "id": "a605478f3aa3fce7",
+        "type": "complete",
+        "z": "e63f0fbbbafd2a71",
+        "g": "64fcf5e5b5e3c0f4",
+        "name": "",
+        "scope": [
+            "2e1773bdcaaa8d56",
+            "42ce22dcb2696c6b"
+        ],
+        "uncaught": false,
+        "x": 130,
+        "y": 620,
+        "wires": [
+            [
+                "ca52f762e24d97c2"
+            ]
+        ]
+    },
+    {
+        "id": "772906d4c39a6053",
+        "type": "ui_form",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "",
+        "label": "Điều chỉnh giá xăng",
+        "group": "31156fea01372f87",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "options": [
+            {
+                "label": "Mã trạm",
+                "value": "station",
+                "type": "number",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Loại xăng",
+                "value": "code",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Giá",
+                "value": "price",
+                "type": "number",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "station": "",
+            "code": "",
+            "price": ""
+        },
+        "payload": "",
+        "submit": "Cập nhật",
+        "cancel": "Hủy",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "",
+        "x": 190,
+        "y": 900,
+        "wires": [
+            [
+                "7eaeddc80bbf5cf0"
+            ]
+        ]
+    },
+    {
+        "id": "69b657ba558e86b2",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "insert giá xăng",
+        "func": "var query = `INSERT INTO gasprice (station_id, gas_type, price, updated_at) VALUES (:station, :code, :price, :Time)`\nmsg.topic = query\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 900,
+        "wires": [
+            [
+                "e252708ae8b7d621"
+            ]
+        ]
+    },
+    {
+        "id": "7eaeddc80bbf5cf0",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "Create JSON",
+        "func": "// Lấy dữ liệu từ form\nconst formData = msg.payload;\n\n// Lấy thời gian hiện tại\nconst now = new Date();\n// Thêm 7 giờ để chuyển đổi sang múi giờ UTC+7\nnow.setHours(now.getHours() + 7);\n\n// Chuyển đổi thành định dạng YYYY-MM-DD HH:MM:SS\nconst formattedTimestamp = now.toISOString().slice(0, 19).replace('T', ' ');\n\n// Tạo một đối tượng chứa dữ liệu và thời gian\nconst jsonData = {\n    ...formData, // Thêm dữ liệu từ form\n    Time: formattedTimestamp // Thêm thời gian đã định dạng\n};\n\n// Chuyển đổi đối tượng thành chuỗi JSON\nmsg.payload = JSON.stringify(jsonData);\n\n// Trả về msg đã được chỉnh sửa\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 900,
+        "wires": [
+            [
+                "22b07fd46a75a5cc"
+            ]
+        ]
+    },
+    {
+        "id": "22b07fd46a75a5cc",
+        "type": "json",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 550,
+        "y": 900,
+        "wires": [
+            [
+                "69b657ba558e86b2"
+            ]
+        ]
+    },
+    {
+        "id": "e252708ae8b7d621",
+        "type": "mysql",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "mydb": "76457436fa377042",
+        "name": "",
+        "x": 930,
+        "y": 920,
+        "wires": [
+            [
+                "fc515a44ec4677fe"
+            ]
+        ]
+    },
+    {
+        "id": "1c6db7a664bfb7d6",
+        "type": "ui_form",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "name": "Dashboard Sign-In",
+        "label": "",
+        "group": "bed3d2781ec17377",
+        "order": 1,
+        "width": 6,
+        "height": 1,
+        "options": [
+            {
+                "label": "username",
+                "value": "username",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "password",
+                "value": "password",
+                "type": "password",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "username": "",
+            "password": ""
+        },
+        "payload": "",
+        "submit": "Đăng nhập",
+        "cancel": "Cancel",
+        "topic": "",
+        "topicType": "str",
+        "splitLayout": false,
+        "className": "",
+        "x": 170,
+        "y": 140,
+        "wires": [
+            [
+                "c5ae3bb5507acfc0",
+                "4fb74659be0ae37f",
+                "28502c6649944146"
+            ]
+        ]
+    },
+    {
+        "id": "c1d0b0371d52527d",
+        "type": "comment",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "name": "Sign-In group",
+        "info": "",
+        "x": 160.00000762939453,
+        "y": 82.99999618530273,
+        "wires": []
+    },
+    {
+        "id": "c5ae3bb5507acfc0",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "name": "Account Log",
+        "func": "var accountlog =  flow.get(\"accountlog\") || [] ; \n\naccountlog.push({ accessAt : new Date(), username : msg.payload.username})\n\nflow.set(\"accountlog\", accountlog);\n\nmsg.payload = accountlog;\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 369.00000762939453,
+        "y": 109.99999618530273,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4fb74659be0ae37f",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "name": "Account Verification",
+        "func": "var accounts =  flow.get(\"accounts\") || [ { username : \"admin\", password : \"admin\"},{ username : \"guest\", password : \"guest\"}] ; \n\nvar username = msg.payload.username ;\nvar password = msg.payload.password ; \n\nmsg.payload = 1;\n\naccounts.forEach(function ( account ){\n    if ( account.username == username ) {\n       msg.payload = 2;\n       if ( account.password == password ) {\n           msg.payload = 0;\n       } \n    }\n});\n\n/*if ( msg.payload == 0 ) {\n  var currentsocketid = flow.get(\"clientid\") || undefined;\n  if ( currentsocketid !== undefined && currentsocketid !== msg.socketid ) msg.payload = 3;\n}*/\n// keep the original socketid from msg.socketid;\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 382.0000457763672,
+        "y": 155.0000057220459,
+        "wires": [
+            [
+                "e4b07588efb1b84f"
+            ]
+        ]
+    },
+    {
+        "id": "e4b07588efb1b84f",
+        "type": "switch",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "2",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "3",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 4,
+        "x": 551.0000419616699,
+        "y": 185.9999885559082,
+        "wires": [
+            [
+                "42ce22dcb2696c6b"
+            ],
+            [
+                "b2fa66cd0d904d07"
+            ],
+            [
+                "7c8831a9fbcf6f80"
+            ],
+            [
+                "940a657e49d0e59d"
+            ]
+        ]
+    },
+    {
+        "id": "1633a0c41905c350",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "d": true,
+        "g": "da249fdcb9dfb5b2",
+        "name": "= 0 : Success",
+        "func": "var sessionTimer = flow.get(\"sessionTimer\") || 0;\nvar currTime = Date.now();\nflow.set(\"sessionTimer\", currTime);\nflow.set(\"clientid\", msg.socketid);\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 300,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b2fa66cd0d904d07",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "name": "= 1 : Unknown User",
+        "func": "msg.payload = \"Username Doesn't exist!!!\"\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 741.9998931884766,
+        "y": 179,
+        "wires": [
+            [
+                "2ae105c7d947a695"
+            ]
+        ]
+    },
+    {
+        "id": "7c8831a9fbcf6f80",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "name": "= 2 : Wrong Password",
+        "func": "msg.payload = \"Invalid Password\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 742.9999618530273,
+        "y": 216.0000123977661,
+        "wires": [
+            [
+                "2ae105c7d947a695"
+            ]
+        ]
+    },
+    {
+        "id": "7f373ecd596ee139",
+        "type": "ui_ui_control",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "name": "Go to Stations/Price Group",
+        "x": 1000,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2ae105c7d947a695",
+        "type": "ui_toast",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "Authentication Failed",
+        "name": "Authentication Failure Dialog",
+        "x": 1007.9999732971191,
+        "y": 199,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "28502c6649944146",
+        "type": "debug",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "x": 330,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "684297d6ab76195d",
+        "type": "ui_toast",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "System In Use.",
+        "name": "System In-Use Dialog",
+        "x": 991.1111793518066,
+        "y": 252.1215353012085,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "940a657e49d0e59d",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "name": "= 4 : System In Use",
+        "func": "msg.payload = \"System is used by other user.\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 732.4443283081055,
+        "y": 253.12152862548828,
+        "wires": [
+            [
+                "684297d6ab76195d"
+            ]
+        ]
+    },
+    {
+        "id": "9f816fe0d6c8678e",
+        "type": "ui_button",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "name": "",
+        "group": "61b67a65d60c9290",
+        "order": 1,
+        "width": 2,
+        "height": 1,
+        "passthru": false,
+        "label": "Đăng xuất",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 130,
+        "y": 360,
+        "wires": [
+            [
+                "30d3c1bbb2e82786"
+            ]
+        ]
+    },
+    {
+        "id": "56a25d05fcf86932",
+        "type": "comment",
+        "z": "e63f0fbbbafd2a71",
+        "g": "64fcf5e5b5e3c0f4",
+        "name": "Quản lý trạm xăng",
+        "info": "",
+        "x": 170,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "6c2003f22e1b0770",
+        "type": "comment",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "Quản lý giá xăng",
+        "info": "",
+        "x": 180,
+        "y": 860,
+        "wires": []
+    },
+    {
+        "id": "097c5f4af097fa43",
+        "type": "change",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "name": "login",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"group\":{\"show\":[\"Home_InsertStations\",\"Home_ListStations\",\"Home_UpdateStations\",\"Home_DeleteStations\",\"Home_UpdatePrice\",\"Home_Logout\"],\"hide\":[\"Home_Signin\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 730,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c5f896dcafa76297",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "name": "chuyen tab",
+        "func": "var msg = {};\nmsg.payload = {\n    group: {\n        hide: [\"Home_InsertStations\",\n            \"Home_ListStations\",\n            \"Home_UpdateStations\",\n            \"Home_DeleteStations\",\n            \"Home_UpdatePrice\",\n            \"Home_PriceHistory\",\n            \"Home_LedInfo\",\n            \"Home_InsertLed\",\n            \"Home_LedList\",\n            \"Home_LedState\",\n            \"Home_Error\",\n            \"Home_Logout\"],\n        show: [\"Home_Signin\"]\n    }\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 340,
+        "wires": [
+            [
+                "b6de98fc4949a62c"
+            ]
+        ]
+    },
+    {
+        "id": "42ce22dcb2696c6b",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "name": "chuyen tab",
+        "func": "/* activate session timer */\nvar sessionTimer = flow.get(\"sessionTimer\") || 0;\nvar currTime = Date.now();\nflow.set(\"sessionTimer\", currTime);\nflow.set(\"clientid\", msg.socketid);\n/* ui-control payload */\nmsg.payload = {\n    group: {\n        show: [\"Home_InsertStations\",\n            \"Home_ListStations\",\n            \"Home_UpdateStations\",\n            \"Home_DeleteStations\",\n            \"Home_UpdatePrice\",\n            \"Home_PriceHistory\",\n            \"Home_LedInfo\",\n            \"Home_InsertLed\",\n            \"Home_LedList\",\n            \"Home_LedState\",\n            \"Home_Error\",\n            \"Home_Logout\"],\n        hide: [\"Home_Signin\"]\n    }\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 730,
+        "y": 80,
+        "wires": [
+            [
+                "7f373ecd596ee139"
+            ]
+        ]
+    },
+    {
+        "id": "5790c8845f380fad",
+        "type": "inject",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "name": "Start",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.2",
+        "topic": "",
+        "x": 130,
+        "y": 320,
+        "wires": [
+            [
+                "c5f896dcafa76297"
+            ]
+        ]
+    },
+    {
+        "id": "b6de98fc4949a62c",
+        "type": "ui_ui_control",
+        "z": "e63f0fbbbafd2a71",
+        "g": "da249fdcb9dfb5b2",
+        "name": "Go to Signin group",
+        "x": 610,
+        "y": 360,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "265e4716edd97408",
+        "type": "comment",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "Quản lý bảng led",
+        "info": "",
+        "x": 140,
+        "y": 1380,
+        "wires": []
+    },
+    {
+        "id": "4457ac9e22b65db5",
+        "type": "ui_text_input",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "Thêm bảng led",
+        "label": "Mã trạm",
+        "tooltip": "Mã trạm",
+        "group": "b21b08095c31e14a",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "number",
+        "delay": "0",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
+        "x": 140,
+        "y": 1420,
+        "wires": [
+            [
+                "d6531c0cec84bc04"
+            ]
+        ]
+    },
+    {
+        "id": "923aa7b02aa20126",
+        "type": "ui_dropdown",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "chọn chức năng",
+        "label": "Chức năng",
+        "tooltip": "",
+        "place": "Select option",
+        "group": "b21b08095c31e14a",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Hiển thị giá xăng",
+                "value": "price",
+                "type": "str"
+            },
+            {
+                "label": "Hiển thị thông tin",
+                "value": "info",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "type",
+        "topicType": "str",
+        "className": "",
+        "x": 140,
+        "y": 1480,
+        "wires": [
+            [
+                "d6531c0cec84bc04"
+            ]
+        ]
+    },
+    {
+        "id": "d6531c0cec84bc04",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "thêm led",
+        "func": "let topic = context.get('topic') || null;\nlet type = context.get('type') || null;\n\nif (msg.topic === \"topic\") {\n    topic = msg.payload;\n    context.set('topic', topic);\n} if (msg.topic === \"type\") {\n    type = msg.payload;\n    context.set('type', type);\n}\n\nconst now = new Date();\n\n// Chuyển đổi thành định dạng YYYY-MM-DD HH:MM:SS\nconst formattedTimestamp = now.toISOString().slice(0, 19).replace('T', ' ');\n\nif (msg.topic === \"insert\") {\n    let jsonObject = {\n        id: topic,\n        type: type,\n        Time: formattedTimestamp\n    };\n\n    let output = JSON.stringify(jsonObject);\n    msg.payload = output;\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 1440,
+        "wires": [
+            [
+                "bf525dc37de9fca9"
+            ]
+        ]
+    },
+    {
+        "id": "31f8c085708f78e2",
+        "type": "ui_button",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "Thêm",
+        "group": "b21b08095c31e14a",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Thêm",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "insert",
+        "topicType": "str",
+        "x": 110,
+        "y": 1540,
+        "wires": [
+            [
+                "d6531c0cec84bc04"
+            ]
+        ]
+    },
+    {
+        "id": "b29971257e50e043",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "insert bảng led",
+        "func": "var query = `INSERT INTO LEDDisplays (station_id, display_status, last_updated) VALUES (:id, :type, :Time)`\nmsg.topic = query\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 1440,
+        "wires": [
+            [
+                "09495bacea119e91"
+            ]
+        ]
+    },
+    {
+        "id": "bf525dc37de9fca9",
+        "type": "json",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 490,
+        "y": 1440,
+        "wires": [
+            [
+                "b29971257e50e043"
+            ]
+        ]
+    },
+    {
+        "id": "047679dd4349af49",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "lấy tt bảng led",
+        "func": "\nvar id = msg.payload;\n\nvar query = 'SELECT * FROM gas_stations.leddisplays WHERE station_id = ' + id;\nmsg.topic = query;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 1480,
+        "wires": [
+            [
+                "09495bacea119e91"
+            ]
+        ]
+    },
+    {
+        "id": "8ced5305c2a26951",
+        "type": "ui_table",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "group": "889001569a3b7fe5",
+        "name": "Danh sách bảng led",
+        "order": 2,
+        "width": 12,
+        "height": 3,
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 880,
+        "y": 1520,
+        "wires": [],
+        "info": "{\r\n    \"field\": \"id\",\r\n    \"title\": \"ID\",\r\n    \"width\": \"50px\"\r\n},\r\n{\r\n    \"field\": \"name\",\r\n    \"title\": \"Station Name\",\r\n    \"width\": \"200px\"\r\n},\r\n{\r\n    \"field\": \"address\",\r\n    \"title\": \"Address\",\r\n    \"width\": \"300px\"\r\n},\r\n{\r\n    \"field\": \"status\",\r\n    \"title\": \"Status\",\r\n    \"width\": \"100px\"\r\n}"
+    },
+    {
+        "id": "88cd343663bc7596",
+        "type": "ui_text_input",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "chọn trạm",
+        "label": "Chọn trạm muốn xem",
+        "tooltip": "",
+        "group": "889001569a3b7fe5",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "topic",
+        "sendOnBlur": false,
+        "className": "",
+        "topicType": "msg",
+        "x": 460,
+        "y": 1480,
+        "wires": [
+            [
+                "047679dd4349af49"
+            ]
+        ]
+    },
+    {
+        "id": "85fe647a0c281fb3",
+        "type": "ui_text_input",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "chọn trạm",
+        "label": "Chọn trạm muốn xem",
+        "tooltip": "",
+        "group": "30a28bbc9dbe8dba",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "topic",
+        "sendOnBlur": false,
+        "className": "",
+        "topicType": "msg",
+        "x": 540,
+        "y": 940,
+        "wires": [
+            [
+                "44ef22ef06dedd75"
+            ]
+        ]
+    },
+    {
+        "id": "fc515a44ec4677fe",
+        "type": "ui_table",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "group": "30a28bbc9dbe8dba",
+        "name": "Lịch sử giá",
+        "order": 2,
+        "width": 12,
+        "height": 3,
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 1010,
+        "y": 980,
+        "wires": [],
+        "info": "{\r\n    \"field\": \"id\",\r\n    \"title\": \"ID\",\r\n    \"width\": \"30px\"\r\n},\r\n{\r\n    \"field\": \"name\",\r\n    \"title\": \"Station Name\",\r\n    \"width\": \"100px\"\r\n},\r\n{\r\n    \"field\": \"address\",\r\n    \"title\": \"Address\",\r\n    \"width\": \"300px\"\r\n},\r\n{\r\n    \"field\": \"status\",\r\n    \"title\": \"Status\",\r\n    \"width\": \"300px\"\r\n}"
+    },
+    {
+        "id": "1520cd976b98489a",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "gửi tt xuống led",
+        "func": "// Lấy dữ liệu từ form\nconst formData = msg.payload;\n\nconst jsonData = {\n    type: \"infor\",\n    ...formData, // Thêm dữ liệu từ form\n   \n};\n\n// Chuyển đổi đối tượng thành chuỗi JSON\nmsg.payload = JSON.stringify(jsonData);\n\n// Trả về msg đã được chỉnh sửa\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 1580,
+        "wires": [
+            [
+                "429921a8b0f3a0a2",
+                "3ff920f61fac97a9"
+            ]
+        ]
+    },
+    {
+        "id": "e53b931c90cbd102",
+        "type": "ui_form",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "",
+        "label": "Thông tin muốn hiển thị",
+        "group": "6a1f9db521e66394",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "options": [
+            {
+                "label": "Mã trạm",
+                "value": "station",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Nhập thông tin",
+                "value": "data",
+                "type": "text",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "station": "",
+            "data": ""
+        },
+        "payload": "",
+        "submit": "Gửi",
+        "cancel": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "",
+        "x": 170,
+        "y": 1580,
+        "wires": [
+            [
+                "1520cd976b98489a"
+            ]
+        ]
+    },
+    {
+        "id": "429921a8b0f3a0a2",
+        "type": "mqtt out",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "",
+        "topic": "to-esp8266",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "594ca1660cecb8a4",
+        "x": 690,
+        "y": 1540,
+        "wires": []
+    },
+    {
+        "id": "09495bacea119e91",
+        "type": "mysql",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "mydb": "76457436fa377042",
+        "name": "",
+        "x": 850,
+        "y": 1460,
+        "wires": [
+            [
+                "8ced5305c2a26951"
+            ]
+        ]
+    },
+    {
+        "id": "aeda9ae74697ad95",
+        "type": "comment",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "cap nhat gia tu dong",
+        "info": "",
+        "x": 190,
+        "y": 980,
+        "wires": []
+    },
+    {
+        "id": "3ff920f61fac97a9",
+        "type": "debug",
+        "z": "e63f0fbbbafd2a71",
+        "d": true,
+        "g": "37b881e302a2e11b",
+        "name": "debug 20",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 690,
+        "y": 1600,
+        "wires": []
+    },
+    {
+        "id": "0991f5cfa1f04d9b",
+        "type": "mqtt in",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "",
+        "topic": "from-esp8266",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "594ca1660cecb8a4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 150,
+        "y": 1640,
+        "wires": [
+            [
+                "52bb4d5e1c9a218b",
+                "60685936c9e6b436",
+                "9239dffdee126d1b"
+            ]
+        ]
+    },
+    {
+        "id": "52bb4d5e1c9a218b",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "xu ly trang thai led 1",
+        "func": "if (msg.payload === \"Slave 1 da nhan duoc\") {\n    msg.payload = true;\n} else {\n    msg.payload = false;\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 1640,
+        "wires": [
+            [
+                "57197e9247999b90"
+            ]
+        ]
+    },
+    {
+        "id": "57197e9247999b90",
+        "type": "ui_led",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "order": 1,
+        "group": "217b3fe21c0b1376",
+        "width": 0,
+        "height": 0,
+        "label": "Led 1",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "Led 1",
+        "x": 570,
+        "y": 1640,
+        "wires": []
+    },
+    {
+        "id": "60685936c9e6b436",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "xu ly trang thai led 2",
+        "func": "if (msg.payload === \"Slave 2 da nhan duoc\") {\n    msg.payload = true;\n} else {\n    msg.payload = false;\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 1680,
+        "wires": [
+            [
+                "500ce5ccc6794f1b"
+            ]
+        ]
+    },
+    {
+        "id": "500ce5ccc6794f1b",
+        "type": "ui_led",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "order": 2,
+        "group": "217b3fe21c0b1376",
+        "width": 0,
+        "height": 0,
+        "label": "Led 2",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "Led 2",
+        "x": 570,
+        "y": 1680,
+        "wires": []
+    },
+    {
+        "id": "012936f86dceaaad",
+        "type": "mysql",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "mydb": "76457436fa377042",
+        "name": "",
+        "x": 470,
+        "y": 1240,
+        "wires": [
+            [
+                "07da7929e85ed867"
+            ]
+        ]
+    },
+    {
+        "id": "5755078f3fd654b4",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "function 28",
+        "func": "var query = 'SELECT * FROM gas_stations.gasprice WHERE (gas_type, updated_at) IN(SELECT gas_type, MAX(updated_at) FROM gasprice GROUP BY gas_type) ';\nmsg.topic = query;\nreturn msg;\n\n\n\n\n\n\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 1240,
+        "wires": [
+            [
+                "012936f86dceaaad"
+            ]
+        ]
+    },
+    {
+        "id": "2f62fc219a11c9f8",
+        "type": "complete",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "",
+        "scope": [
+            "69b657ba558e86b2"
+        ],
+        "uncaught": false,
+        "x": 250,
+        "y": 1180,
+        "wires": [
+            [
+                "5755078f3fd654b4"
+            ]
+        ]
+    },
+    {
+        "id": "07da7929e85ed867",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "function 30",
+        "func": "/*let data = msg.payload; // msg.payload là danh sách JSON từ SQL\n\n// Tách và loại bỏ `updated_at`, thêm `source`\nconst transformedData = data.map(item => {\n    return {\n        type: \"price\",\n        code: item.gas_type,\n        price: item.price,\n         // Thêm trường mới\n    };\n});\n\n// Chuyển danh sách đã xử lý thành chuỗi JSON\nmsg.payload = JSON.stringify(transformedData);\n\nreturn msg;*/\n///////////////////\nlet data = msg.payload; // msg.payload là danh sách JSON từ SQL\n\n// Dùng Set để theo dõi các code đã gặp\nconst uniqueCodes = new Set();\n\n// Tách và loại bỏ `updated_at`, thêm `source`, lọc trùng\nconst transformedData = data.filter(item => {\n    if (!uniqueCodes.has(item.gas_type)) {\n        uniqueCodes.add(item.gas_type);\n        return true;\n    }\n    return false;\n}).map(item => {\n    return {\n        type: \"price\",\n        code: item.gas_type,\n        price: item.price,\n    };\n});\n\n// Chuyển danh sách đã xử lý thành chuỗi JSON\nmsg.payload = JSON.stringify(transformedData);\n\nreturn msg;\n\n\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 650,
+        "y": 1240,
+        "wires": [
+            [
+                "2d89209259f8a49b",
+                "09223d0287b1b850"
+            ]
+        ]
+    },
+    {
+        "id": "68c2a5eb8c2a7e75",
+        "type": "inject",
+        "z": "e63f0fbbbafd2a71",
+        "d": true,
+        "g": "1a61165073621750",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "[{\"type\":\"price\",\"station\":1,\"code\":\"dau hoa\",\"price\":\"11000\"},{\"type\":\"price\",\"station\":1,\"code\":\"e5\",\"price\":\"22000\"},{\"type\":\"price\",\"station\":1,\"code\":\"BRENT_CRUDE_USD\",\"price\":\"80.28\"}]",
+        "payloadType": "json",
+        "x": 1030,
+        "y": 1220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "44ef22ef06dedd75",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "lấy tt bảng led",
+        "func": "var id = msg.payload;\n\n// Kiểm tra xem id có phải là số nguyên\nif (isNaN(id)) {\n    throw new Error(\"Invalid station ID: Must be a number.\");\n}\n\n// Xây dựng câu truy vấn an toàn, với điều chỉnh múi giờ UTC+7\nvar query = `SELECT *, CONVERT_TZ(updated_at, '+00:00', '+07:00') AS updated_at_utc7 \n             FROM gas_stations.gasprice \n             WHERE station_id = ${id} \n             ORDER BY updated_at DESC`;\n\nmsg.topic = query;\nreturn msg;\n\n\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 940,
+        "wires": [
+            [
+                "e252708ae8b7d621"
+            ]
+        ]
+    },
+    {
+        "id": "235f58a382543ca7",
+        "type": "inject",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "Start",
+        "props": [],
+        "repeat": "",
+        "crontab": "00 12 * * *",
+        "once": false,
+        "onceDelay": "0.5",
+        "topic": "",
+        "x": 170,
+        "y": 1020,
+        "wires": [
+            [
+                "667ce3da38d0f2b9",
+                "26a2bb8750a51423",
+                "15172c67acc8f3a9",
+                "stop-timer"
+            ]
+        ]
+    },
+    {
+        "id": "667ce3da38d0f2b9",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "Prepare Request",
+        "func": "/*\nmsg.method = \"GET\"; // Đặt phương thức HTTP\nmsg.url = \"https://www.goldapi.io/api/XAU/USD\"; // Đặt URL\nmsg.headers = {}; // Khởi tạo đối tượng headers\nmsg.headers['x-access-token'] = 'goldapi-2bk9ssm4siw797-io'; // Đặt header x-access-token\nreturn msg;\n*/\n\nmsg.method = \"GET\"; // Đặt phương thức HTTP\nmsg.url = \"https://api.oilpriceapi.com/v1/prices/latest\"; // Đặt URL\nmsg.headers = {}; // Khởi tạo đối tượng headers\nmsg.headers['Authorization'] = '29e98edf226725d2d1065def24c1af74'; // Đặt header Authorization\nmsg.headers['Content-Type'] = 'application/json'; // Đặt header Content-Type\nreturn msg;\n\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 330,
+        "y": 1020,
+        "wires": [
+            [
+                "e0437994dca7b9b8"
+            ]
+        ]
+    },
+    {
+        "id": "e0437994dca7b9b8",
+        "type": "http request",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "HTTP Request",
+        "method": "use",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 520,
+        "y": 1020,
+        "wires": [
+            [
+                "26dc63ef08a099b0"
+            ]
+        ]
+    },
+    {
+        "id": "862ff40adb8fb27a",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "d": true,
+        "g": "1a61165073621750",
+        "name": "function 31",
+        "func": "let data = msg.payload; // msg.payload là danh sách JSON từ SQL\n\n// Tách và loại bỏ `updated_at`, thêm `source`\nconst transformedData = data.map(item => {\n    // Kiểm tra giá trị gas_type để quyết định thêm đơn vị tiền tệ\n    let priceWithCurrency = item.price + \" VND\"; // Mặc định là VND\n\n    if (item.gas_type === \"BRENT_CRUDE_USD\") {\n        priceWithCurrency = item.price + \" USD\"; // Nếu gas_type là BRENT_CRUDE_USD thì thêm USD\n    }\n\n    return {\n        type: \"price\",\n        station: item.station_id,\n        code: item.gas_type,\n        price: priceWithCurrency,\n        // Thêm trường mới nếu cần\n    };\n});\n\n// Chuyển danh sách đã xử lý thành chuỗi JSON\nmsg.payload = JSON.stringify(transformedData);\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1010,
+        "y": 1280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "26dc63ef08a099b0",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "Create JSON",
+        "func": "let payload = msg.payload;\nlet tranformedData;\n\nif (payload && payload.data) {\n    // Lấy thời gian từ payload và chuyển đổi sang Date object\n    let utcTime = new Date(payload.data.created_at);\n    \n    // Chuyển đổi sang giờ +7 (UTC+7)\n    let localTime = new Date(utcTime.getTime() + 7 * 60 * 60 * 1000);\n\n    // Chuyển đổi sang định dạng ISO hoặc định dạng bạn mong muốn\n    let formattedTime = localTime.toISOString().replace(\"T\", \" \").split(\".\")[0];\n\n    // Chỉ giữ lại thông tin trong payload.data\n    tranformedData = {\n        station: \"1\",\n        code: payload.data.code,\n        price: payload.data.price,\n        Time: formattedTime, // Thời gian sau khi chuyển đổi\n    };\n}\n\n// Chuyển đổi đối tượng thành chuỗi JSON\nmsg.payload = JSON.stringify(tranformedData);\n\n// Trả về msg đã được chỉnh sửa\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 690,
+        "y": 1020,
+        "wires": [
+            [
+                "3269b06a0b428b36"
+            ]
+        ]
+    },
+    {
+        "id": "3269b06a0b428b36",
+        "type": "json",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 830,
+        "y": 1020,
+        "wires": [
+            [
+                "69b657ba558e86b2"
+            ]
+        ]
+    },
+    {
+        "id": "315b65b9d433d2d4",
+        "type": "mqtt in",
+        "z": "e63f0fbbbafd2a71",
+        "g": "59be8ce9bf2ad5d9",
+        "name": "",
+        "topic": "from-esp8266",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "594ca1660cecb8a4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 170,
+        "y": 1920,
+        "wires": [
+            [
+                "7500935e7797fffa",
+                "24f4d4554971cbb5",
+                "15f99b7a9f5cee7f"
+            ]
+        ]
+    },
+    {
+        "id": "7500935e7797fffa",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "59be8ce9bf2ad5d9",
+        "name": "bao loi bang 1",
+        "func": "\n\nif (msg.payload === \"Slave 1 khong nhan duoc\") {\n    // Lấy thời gian hiện tại\n    const now = new Date();\n    // Thêm 7 giờ để chuyển đổi sang múi giờ UTC+7\n    now.setHours(now.getHours() + 7);\n    // Chuyển đổi thành định dạng YYYY-MM-DD HH:MM:SS\n    const formattedTimestamp = now.toISOString().slice(0, 19).replace('T', ' ');\n    // Tạo một đối tượng chứa dữ liệu và thời gian\n    const jsonData = {\n        station: \"1\",\n        led: \"1\",\n        descrip: \"Bảng led không nhận được dữ liệu\",\n        Time: formattedTimestamp // Thêm thời gian đã định dạng\n    };\n    // Chuyển đổi đối tượng thành chuỗi JSON\n    msg.payload = JSON.stringify(jsonData);\n    // Trả về msg đã được chỉnh sửa\n    return msg;\n} else {\n    return null;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 1860,
+        "wires": [
+            [
+                "d23aee5ca6971df8"
+            ]
+        ]
+    },
+    {
+        "id": "24f4d4554971cbb5",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "59be8ce9bf2ad5d9",
+        "name": "bao loi bang 2",
+        "func": "\n\nif (msg.payload === \"Slave 2 khong nhan duoc\") {\n    // Lấy thời gian hiện tại\n    const now = new Date();\n    // Thêm 7 giờ để chuyển đổi sang múi giờ UTC+7\n    now.setHours(now.getHours() + 7);\n    // Chuyển đổi thành định dạng YYYY-MM-DD HH:MM:SS\n    const formattedTimestamp = now.toISOString().slice(0, 19).replace('T', ' ');\n    // Tạo một đối tượng chứa dữ liệu và thời gian\n    const jsonData = {\n        station: \"1\",\n        led: \"2\",\n        descrip: \"Bảng led không nhận được dữ liệu\",\n        Time: formattedTimestamp // Thêm thời gian đã định dạng\n    };\n    // Chuyển đổi đối tượng thành chuỗi JSON\n    msg.payload = JSON.stringify(jsonData);\n    // Trả về msg đã được chỉnh sửa\n    return msg;\n} else {\n    return null;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 1900,
+        "wires": [
+            [
+                "d23aee5ca6971df8"
+            ]
+        ]
+    },
+    {
+        "id": "15f99b7a9f5cee7f",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "59be8ce9bf2ad5d9",
+        "name": "bao loi master",
+        "func": "\n\nif (msg.payload === \"End\") {\n    // Lấy thời gian hiện tại\n    const now = new Date();\n    // Thêm 7 giờ để chuyển đổi sang múi giờ UTC+7\n    now.setHours(now.getHours() + 7);\n    // Chuyển đổi thành định dạng YYYY-MM-DD HH:MM:SS\n    const formattedTimestamp = now.toISOString().slice(0, 19).replace('T', ' ');\n    // Tạo một đối tượng chứa dữ liệu và thời gian\n    const jsonData = {\n        station: \"1\",\n        led: \"NULL\",\n        descrip: \"Gửi dữ liệu không thành công\",\n        Time: formattedTimestamp // Thêm thời gian đã định dạng\n    };\n    // Chuyển đổi đối tượng thành chuỗi JSON\n    msg.payload = JSON.stringify(jsonData);\n    // Trả về msg đã được chỉnh sửa\n    return msg;\n} else {\n    return null;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 1960,
+        "wires": [
+            [
+                "d23aee5ca6971df8"
+            ]
+        ]
+    },
+    {
+        "id": "d23aee5ca6971df8",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "59be8ce9bf2ad5d9",
+        "name": "function 32",
+        "func": "var query = `INSERT INTO ErrorLogs (station_id, led_id, description, reported_at) VALUES (:station, :led, :descrip, :Time)`\nmsg.topic = query\n return msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 1900,
+        "wires": [
+            [
+                "6aed25a2c7334570"
+            ]
+        ]
+    },
+    {
+        "id": "6aed25a2c7334570",
+        "type": "mysql",
+        "z": "e63f0fbbbafd2a71",
+        "g": "59be8ce9bf2ad5d9",
+        "mydb": "76457436fa377042",
+        "name": "",
+        "x": 790,
+        "y": 1900,
+        "wires": [
+            [
+                "47ae9c93394c3872"
+            ]
+        ]
+    },
+    {
+        "id": "f24c6c2e97f1ef67",
+        "type": "comment",
+        "z": "e63f0fbbbafd2a71",
+        "g": "59be8ce9bf2ad5d9",
+        "name": "Bao loi",
+        "info": "",
+        "x": 110,
+        "y": 1840,
+        "wires": []
+    },
+    {
+        "id": "47ae9c93394c3872",
+        "type": "ui_table",
+        "z": "e63f0fbbbafd2a71",
+        "g": "59be8ce9bf2ad5d9",
+        "group": "1e458aac8321a522",
+        "name": "Báo lỗi ",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 940,
+        "y": 1900,
+        "wires": []
+    },
+    {
+        "id": "6b4d0a43109a78c1",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "59be8ce9bf2ad5d9",
+        "name": "báo lỗi",
+        "func": "\nvar id = msg.payload;\n\nvar query = 'SELECT * FROM gas_stations.errorlogs WHERE station_id = ' + id;\nmsg.topic = query;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 2000,
+        "wires": [
+            [
+                "6aed25a2c7334570"
+            ]
+        ]
+    },
+    {
+        "id": "36933a1ba3c267b0",
+        "type": "ui_text_input",
+        "z": "e63f0fbbbafd2a71",
+        "g": "59be8ce9bf2ad5d9",
+        "name": "",
+        "label": "Chọn trạm",
+        "tooltip": "",
+        "group": "1e458aac8321a522",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "text",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 530,
+        "y": 2000,
+        "wires": [
+            [
+                "6b4d0a43109a78c1"
+            ]
+        ]
+    },
+    {
+        "id": "30d3c1bbb2e82786",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "name": "chuyen tab",
+        "func": "var msg = {};\nmsg.payload = {\n    group: {\n        hide: [\"Home_InsertStations\",\n            \"Home_ListStations\",\n            \"Home_UpdateStations\",\n            \"Home_DeleteStations\",\n            \"Home_UpdatePrice\",\n            \"Home_PriceHistory\",\n            \"Home_LedInfo\",\n            \"Home_InsertLed\",\n            \"Home_LedList\",\n            \"Home_LedState\",\n            \"Home_Error\",\n            \"Home_Logout\"],\n        show: [\"Home_Signin\"]\n    }\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370.1999816894531,
+        "y": 377.1999816894531,
+        "wires": [
+            [
+                "b6de98fc4949a62c"
+            ]
+        ]
+    },
+    {
+        "id": "stop-timer",
+        "type": "delay",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "Dừng Sau 5 Giây",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 650,
+        "y": 1140,
+        "wires": [
+            [
+                "stop-function"
+            ]
+        ]
+    },
+    {
+        "id": "stop-function",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "Dừng Nhấp Nháy",
+        "func": "msg.payload = 'stop';\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 1140,
+        "wires": [
+            [
+                "15172c67acc8f3a9",
+                "26a2bb8750a51423"
+            ]
+        ]
+    },
+    {
+        "id": "f4d8c46458c20bad",
+        "type": "ui_led",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "order": 4,
+        "group": "217b3fe21c0b1376",
+        "width": 0,
+        "height": 0,
+        "label": "Trạng thái cập nhật tự động",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "0",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "1",
+                "valueType": "str"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 850,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "15172c67acc8f3a9",
+        "type": "trigger",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "",
+        "op1": "1",
+        "op2": "0",
+        "op1type": "str",
+        "op2type": "str",
+        "duration": "-1",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "s",
+        "reset": "stop",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 640,
+        "y": 1100,
+        "wires": [
+            [
+                "f4d8c46458c20bad"
+            ]
+        ]
+    },
+    {
+        "id": "26a2bb8750a51423",
+        "type": "trigger",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "",
+        "op1": "0",
+        "op2": "0",
+        "op1type": "str",
+        "op2type": "str",
+        "duration": "-1.2",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "s",
+        "reset": "stop",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 650,
+        "y": 1060,
+        "wires": [
+            [
+                "f4d8c46458c20bad"
+            ]
+        ]
+    },
+    {
+        "id": "9239dffdee126d1b",
+        "type": "ui_text",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "group": "217b3fe21c0b1376",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Text",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 330,
+        "y": 1740,
+        "wires": []
+    },
+    {
+        "id": "22e7c34c48aa2722",
+        "type": "inject",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "Start",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": "0.2",
+        "topic": "",
+        "x": 130,
+        "y": 1240,
+        "wires": [
+            [
+                "5755078f3fd654b4"
+            ]
+        ]
+    },
+    {
+        "id": "09223d0287b1b850",
+        "type": "mqtt out",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "",
+        "topic": "to-esp8266",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "594ca1660cecb8a4",
+        "x": 730,
+        "y": 1180,
+        "wires": []
+    },
+    {
+        "id": "577575ad702fb663",
+        "type": "aedes broker",
+        "z": "e63f0fbbbafd2a71",
+        "d": true,
+        "g": "1a61165073621750",
+        "name": "",
+        "mqtt_port": 1883,
+        "mqtt_ws_bind": "port",
+        "mqtt_ws_port": null,
+        "mqtt_ws_path": "",
+        "cert": "",
+        "key": "",
+        "certname": "",
+        "keyname": "",
+        "persistence_bind": "memory",
+        "dburl": "",
+        "usetls": false,
+        "x": 390,
+        "y": 860,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "2d89209259f8a49b",
+        "type": "debug",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "debug 23",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 840,
+        "y": 1240,
+        "wires": []
+    },
+    {
+        "id": "9bf0a79e2f3fb196",
+        "type": "inject",
+        "z": "e63f0fbbbafd2a71",
+        "d": true,
+        "g": "1a61165073621750",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "[{\"type\":\"price\",\"station\":1,\"code\":\"dau hoa\",\"price\":\"11000 VND\"},{\"type\":\"price\",\"station\":1,\"code\":\"e5\",\"price\":\"22000 VND\"},{\"type\":\"price\",\"station\":1,\"code\":\"ron95\",\"price\":\"23000 VND\"}]",
+        "payloadType": "json",
+        "x": 1030,
+        "y": 1180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0cf4bcb5b9ca1ad1",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "lấy tt bảng led",
+        "func": "\n// Xây dựng câu truy vấn an toàn, với điều chỉnh múi giờ UTC+7\nvar query = `SELECT *, CONVERT_TZ(updated_at, '+00:00', '+07:00') AS updated_at_utc7 \n             FROM gas_stations.gasprice \n             ORDER BY updated_at DESC`;\n\nmsg.topic = query;\nreturn msg;\n\n\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 980,
+        "wires": [
+            [
+                "c18d79a237629add"
+            ]
+        ]
+    },
+    {
+        "id": "0080bbd9bd0ec73d",
+        "type": "complete",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "name": "",
+        "scope": [
+            "69b657ba558e86b2"
+        ],
+        "uncaught": false,
+        "x": 570,
+        "y": 980,
+        "wires": [
+            [
+                "0cf4bcb5b9ca1ad1"
+            ]
+        ]
+    },
+    {
+        "id": "c18d79a237629add",
+        "type": "mysql",
+        "z": "e63f0fbbbafd2a71",
+        "g": "1a61165073621750",
+        "mydb": "76457436fa377042",
+        "name": "",
+        "x": 990,
+        "y": 1040,
+        "wires": [
+            [
+                "fc515a44ec4677fe"
+            ]
+        ]
+    },
+    {
+        "id": "8589f3a3b25c40dd",
+        "type": "inject",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "5",
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 700,
+        "y": 1700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9ce21f0a8b59d9bb",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "lấy tt bảng led",
+        "func": "\nvar id = msg.payload;\n\nvar query = 'SELECT * FROM gas_stations.leddisplays WHERE station_id = ' + id;\nmsg.topic = query;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 1400,
+        "wires": [
+            [
+                "09495bacea119e91"
+            ]
+        ]
+    },
+    {
+        "id": "d563ffa7e37ed8f7",
+        "type": "complete",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "",
+        "scope": [
+            "b29971257e50e043"
+        ],
+        "uncaught": false,
+        "x": 490,
+        "y": 1380,
+        "wires": [
+            [
+                "9ce21f0a8b59d9bb"
+            ]
+        ]
+    },
+    {
+        "id": "2dc84b5afd2a543c",
+        "type": "function",
+        "z": "e63f0fbbbafd2a71",
+        "g": "59be8ce9bf2ad5d9",
+        "name": "báo lỗi",
+        "func": "\nvar id = msg.payload;\n\nvar query = 'SELECT * FROM gas_stations.errorlogs WHERE station_id = ' + id;\nmsg.topic = query;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 1840,
+        "wires": [
+            [
+                "6aed25a2c7334570"
+            ]
+        ]
+    },
+    {
+        "id": "a78ce466e83bfd7a",
+        "type": "complete",
+        "z": "e63f0fbbbafd2a71",
+        "g": "59be8ce9bf2ad5d9",
+        "name": "",
+        "scope": [
+            "d23aee5ca6971df8"
+        ],
+        "uncaught": false,
+        "x": 530,
+        "y": 1820,
+        "wires": [
+            [
+                "2dc84b5afd2a543c"
+            ]
+        ]
+    },
+    {
+        "id": "e11a741a0e5a13bb",
+        "type": "inject",
+        "z": "e63f0fbbbafd2a71",
+        "g": "37b881e302a2e11b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "hello",
+        "payloadType": "str",
+        "x": 490,
+        "y": 1540,
+        "wires": [
+            [
+                "429921a8b0f3a0a2"
+            ]
+        ]
+    },
+    {
+        "id": "05996b3bc56f297a",
+        "type": "ui_spacer",
+        "z": "e63f0fbbbafd2a71",
+        "name": "spacer",
+        "group": "b82da486.9fc8d8",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "498ba5f42af241b7",
+        "type": "ui_group",
+        "name": "InsertStations",
+        "tab": "b15105a894e8957d",
+        "order": 2,
+        "disp": false,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "76457436fa377042",
+        "type": "MySQLdatabase",
+        "name": "",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "db": "gas_stations",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "99eb7e24ed4ded58",
+        "type": "ui_group",
+        "name": "ListStations",
+        "tab": "b15105a894e8957d",
+        "order": 3,
+        "disp": true,
+        "width": "12",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "c266fd81e1cc196f",
+        "type": "ui_group",
+        "name": "UpdateStations",
+        "tab": "b15105a894e8957d",
+        "order": 4,
+        "disp": false,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "3f8fa5d907536a0d",
+        "type": "ui_group",
+        "name": "DeleteStations",
+        "tab": "b15105a894e8957d",
+        "order": 11,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "31156fea01372f87",
+        "type": "ui_group",
+        "name": "UpdatePrice",
+        "tab": "b15105a894e8957d",
+        "order": 6,
+        "disp": false,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "bed3d2781ec17377",
+        "type": "ui_group",
+        "name": "Signin",
+        "tab": "b15105a894e8957d",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "61b67a65d60c9290",
+        "type": "ui_group",
+        "name": "Logout",
+        "tab": "b15105a894e8957d",
+        "order": 13,
+        "disp": true,
+        "width": 2,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b21b08095c31e14a",
+        "type": "ui_group",
+        "name": "InsertLed",
+        "tab": "b15105a894e8957d",
+        "order": 9,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "889001569a3b7fe5",
+        "type": "ui_group",
+        "name": "LedList",
+        "tab": "b15105a894e8957d",
+        "order": 8,
+        "disp": true,
+        "width": "12",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "30a28bbc9dbe8dba",
+        "type": "ui_group",
+        "name": "PriceHistory",
+        "tab": "b15105a894e8957d",
+        "order": 5,
+        "disp": true,
+        "width": "12",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "6a1f9db521e66394",
+        "type": "ui_group",
+        "name": "LedInfo",
+        "tab": "b15105a894e8957d",
+        "order": 10,
+        "disp": false,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "594ca1660cecb8a4",
+        "type": "mqtt-broker",
+        "name": "MQTT1",
+        "broker": "33c6cbaf1c6c46f286ff9f1d8f933f06.s1.eu.hivemq.cloud",
+        "port": "8883",
+        "tls": "",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": true,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "217b3fe21c0b1376",
+        "type": "ui_group",
+        "name": "LedState",
+        "tab": "b15105a894e8957d",
+        "order": 7,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "1e458aac8321a522",
+        "type": "ui_group",
+        "name": "Error",
+        "tab": "b15105a894e8957d",
+        "order": 12,
+        "disp": true,
+        "width": 12,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b82da486.9fc8d8",
+        "type": "ui_group",
+        "name": "Signin",
+        "tab": "d65502b1.ee517",
+        "order": 1,
+        "disp": false,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b15105a894e8957d",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "d65502b1.ee517",
+        "type": "ui_tab",
+        "d": true,
+        "name": "Dashboard",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": true,
+        "hidden": true
+    }
+]
